@@ -1,10 +1,12 @@
-![mik-p banner](./assets/banner.png)
+![mpo-mik-p-banner](https://github.com/mik-p/mik-p/assets/45908907/55f25e6d-e17c-4077-9dff-da453993a7f8)
 
-### Hi there 👋
+## Hi there, i'm mik-p! 👋
 
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
 ![Stars](https://img.shields.io/github/stars/mik-p?color=31545C)
 ![Followers](https://img.shields.io/github/followers/mik-p?color=31545C)
+
+I'm currently a robotics systems engineer with a strong focus on robotics development. I like to take part in projects that promote 
 
 ### Languages
 
