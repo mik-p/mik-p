@@ -8,7 +8,7 @@
 
 I'm currently a robotics systems engineer with a strong focus on robotics development. I like to take part in projects that promote development of robotic systems in real world applications.
 
-### Languages
+### 💬 Languages
 
 ![C](https://img.shields.io/badge/Code-C-informational?&logo=C&logoColor=white&color=31545C)
 ![C++](https://img.shields.io/badge/Code-C++-informational?&logo=c%2b%2b&logoColor=white&color=31545C)
@@ -17,7 +17,7 @@ I'm currently a robotics systems engineer with a strong focus on robotics develo
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?&logo=JavaScript&logoColor=white&color=31545C)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?&logo=TypeScrip&logoColor=white&color=31545C)
 
-### Technologies
+### 🔧 Technologies
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?&logo=Linux&logoColor=white&color=31545C)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white&color=31545C)
