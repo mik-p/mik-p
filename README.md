@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+![Stars](https://img.shields.io/github/stars/mik-p)
+![Followers](https://img.shields.io/github/followers/mik-p)
+
 ### Languages
 
 ![C](https://img.shields.io/badge/Code-C-informational?&logo=C)
