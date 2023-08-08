@@ -1,4 +1,4 @@
-
+![mik-p banner](./assets/banner.png)
 
 ### Hi there 👋
 
