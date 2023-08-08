@@ -17,7 +17,7 @@ I'm currently a robotics systems engineer with a strong focus on robotics develo
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?&logo=JavaScript&logoColor=white&color=31545C)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?&logo=TypeScrip&logoColor=white&color=31545C)
 
-**C++** is the favourite but the *best language for the job* is always preferred.
+**C++** is the favourite but the *'best tool for the job'* is **always** preferred.
 
 ### 🛠 Technologies
 
