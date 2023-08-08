@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/mik-p?color=31545C)
 ![Followers](https://img.shields.io/github/followers/mik-p?color=31545C)
 
-I'm currently a robotics systems engineer with a strong focus on robotics development. I like to take part in projects that promote 
+I'm currently a robotics systems engineer with a strong focus on robotics development. I like to take part in projects that promote development of robotic systems in real world applications.
 
 ### Languages
 
