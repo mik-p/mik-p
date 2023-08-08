@@ -38,6 +38,4 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 ### 🌱 I’m currently learning
 
-### 📫 How to reach me:
-
 ### ⚡ Fun fact: 
