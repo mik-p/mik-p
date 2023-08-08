@@ -50,4 +50,4 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 ### ⚡ Fun fact: 
 
-https://uselessfacts.jsph.pl/api/v2/facts/random
+<!--https://uselessfacts.jsph.pl/api/v2/facts/random-->
