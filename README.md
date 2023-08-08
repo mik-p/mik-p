@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
 ![Stars](https://img.shields.io/github/stars/mik-p)
 ![Followers](https://img.shields.io/github/followers/mik-p)
-[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
 
 ### Languages
 
