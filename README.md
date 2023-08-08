@@ -3,8 +3,8 @@
 ## Hi there! 👋
 
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
-![Stars](https://img.shields.io/github/stars/mik-p?color=31545C)
-![Followers](https://img.shields.io/github/followers/mik-p?color=31545C)
+![Github Stars](https://img.shields.io/github/stars/mik-p?logo=github&color=31545C)
+![Github Followers](https://img.shields.io/github/followers/mik-p?logo=github&color=31545C)
 
 I'm currently a robotics systems engineer with a strong focus on robotics development. I like to take part in projects that promote development of robotic systems in real world applications.
 
