@@ -1,6 +1,6 @@
 ![mpo-mik-p-banner](https://github.com/mik-p/mik-p/assets/45908907/55f25e6d-e17c-4077-9dff-da453993a7f8)
 
-## Hi there, i'm mik-p! 👋
+## Hi there! 👋
 
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
 ![Stars](https://img.shields.io/github/stars/mik-p?color=31545C)
