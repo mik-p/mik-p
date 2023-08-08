@@ -7,24 +7,25 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/Code-C-informational?&logo=C)
-![C++](https://img.shields.io/badge/Code-C++-informational?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/Code-Python-informational?&logo=Python)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?&logo=TypeScript)
+![C](https://img.shields.io/badge/Code-C-informational?&logo=C&logoColor=white&color=31545C)
+![C++](https://img.shields.io/badge/Code-C++-informational?&logo=c%2b%2b&logoColor=white&color=31545C)
+![Python](https://img.shields.io/badge/Code-Python-informational?&logo=Python&logoColor=white&color=31545C)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?&logo=PHP&logoColor=white&color=31545C)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?&logo=JavaScript&logoColor=white&color=31545C)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?&logo=TypeScrip&logoColor=white&color=31545Ct)
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?&logo=Linux)
-![Docker](https://img.shields.io/badge/Tool-Docker-informational?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?&logo=Kubernetes)
-![ROS](https://img.shields.io/badge/Framework-ROS-informational?&logo=ROS)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?&logo=Laravel)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?&logo=FastAPI)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?&logo=node.js)
-![React](https://img.shields.io/badge/Framework-React-informational?&logo=React)
-![DO](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?&logo=Linux&logoColor=white&color=31545C)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white&color=31545C)
+![Docker](https://img.shields.io/badge/Tool-Docker-informational?&logo=Docker&logoColor=white&color=31545C)
+![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?&logo=Kubernetes&logoColor=white&color=31545C)
+![ROS](https://img.shields.io/badge/Framework-ROS-informational?&logo=ROS&logoColor=white&color=31545C)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?&logo=Laravel&logoColor=white&color=31545C)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?&logo=FastAPI&logoColor=white&color=31545C)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?&logo=node.js&logoColor=white&color=31545C)
+![React](https://img.shields.io/badge/Framework-React-informational?&logo=React&logoColor=white&color=31545C)
+![DO](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white&color=31545C)
 
 ### 🔭 I’m currently working on
 
