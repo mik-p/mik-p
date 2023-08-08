@@ -1,6 +1,6 @@
 ![mpo-mik-p-banner](https://github.com/mik-p/mik-p/assets/45908907/55f25e6d-e17c-4077-9dff-da453993a7f8)
 
-## Hi there! 👋
+# Hi there! 👋
 
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-green)](https://ecologi.com/mik-p-online?gift-trees)
 ![Github Stars](https://img.shields.io/github/stars/mik-p?logo=github&color=31545C)
@@ -17,6 +17,8 @@ I'm currently a robotics systems engineer with a strong focus on robotics develo
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?&logo=JavaScript&logoColor=white&color=31545C)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?&logo=TypeScrip&logoColor=white&color=31545C)
 
+**C++** is the favourite but the *best language for the job* is always preferred.
+
 ### 🛠 Technologies
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?&logo=Linux&logoColor=white&color=31545C)
@@ -29,6 +31,8 @@ I'm currently a robotics systems engineer with a strong focus on robotics develo
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?&logo=node.js&logoColor=white&color=31545C)
 ![React](https://img.shields.io/badge/Framework-React-informational?&logo=React&logoColor=white&color=31545C)
 ![DO](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white&color=31545C)
+
+I'm a Linux native and use ROS as the defacto tool for robotics projects. I have created ROS packages and tools in C++, Python, Javascript, Typescript, PHP, and Java. I'm a big fan of container technologies for nomad development, dependency management, and rapid deployment.
 
 ### 🔭 I’m currently working on
 
