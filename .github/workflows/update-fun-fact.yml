@@ -2,7 +2,11 @@ name: Update fun fact
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: "0 12 * * *"
+  push:
+    branches:
+      - main
+
   workflow_dispatch: []
 
 jobs:
@@ -22,19 +26,19 @@ jobs:
       - name: Update README fun fact
         run: |
           python - <<'PY'
-import os
-from pathlib import Path
-import re
+          import os
+          from pathlib import Path
+          import re
 
-readme = Path('README.md')
-text = readme.read_text(encoding='utf-8')
-fact = os.environ['FACT'].strip().replace('\n', ' ')
-pattern = re.compile(r'(<!--FACT_START-->\n> ).*?(\n<!--FACT_END-->)', re.S)
-if not pattern.search(text):
-    raise SystemExit('Could not find fun fact markers in README.md')
-text = pattern.sub(r'\1' + fact + r'\2', text, count=1)
-readme.write_text(text, encoding='utf-8')
-PY
+          readme = Path('README.md')
+          text = readme.read_text(encoding='utf-8')
+          fact = os.environ['FACT'].strip().replace('\n', ' ')
+          pattern = re.compile(r'(<!--FACT_START-->\n> ).*?(\n<!--FACT_END-->)', re.S)
+          if not pattern.search(text):
+              raise SystemExit('Could not find fun fact markers in README.md')
+          text = pattern.sub(r'\1' + fact + r'\2', text, count=1)
+          readme.write_text(text, encoding='utf-8')
+          PY
         env:
           FACT: ${{ steps.fetch_fact.outputs.FACT }}
 
