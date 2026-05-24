@@ -66,9 +66,9 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 </h3>
 
 <p align="center">
-    <!--FACT_START-->
-    This fun fact updates automatically from the uselessfacts API.
-    <!--FACT_END-->
+  <!--FACT_START-->
+  > This fun fact updates automatically from the uselessfacts API.
+  <!--FACT_END-->
 </p>
 
 <p align="center">

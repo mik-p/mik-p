@@ -2,12 +2,7 @@ name: Update fun fact
 
 on:
   schedule:
-    - cron: "0 12 * * *"
-  push:
-    branches:
-      - main
-      - master
-
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
