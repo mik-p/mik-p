@@ -42,6 +42,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 - *Robotics Engineer* @ the **University of Canberra**
 - *Robotics Consultant* @ **MPO Web Consulting**
+- *PhD Candidate* @ the **University of Canberra**
 
 ### 🌱 I’m currently learning
 
@@ -49,6 +50,27 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 2. Human Robot interaction (HRI)
 3. Affective & Cognitive Computing
 
-### ⚡ Fun fact: 
+<br/>
+<hr/>
+<br/>
 
-[uselessfacts](https://uselessfacts.jsph.pl/api/v2/facts/random)
+<h3 align="center">
+  📊 GitHub Stats
+</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mik-p&theme=radical" alt="GitHub streak stats" />
+</p>
+
+<h3 align="center">
+    ⚡ Fun Fact
+</h3>
+
+<p align="center">
+    <!--FACT_START-->
+    This fun fact updates automatically from the uselessfacts API.
+    <!--FACT_END-->
+</p>
+
+<p align="center">
+    <i>Source: <a href="https://uselessfacts.jsph.pl">uselessfacts.jsph.pl</a></i>
+</p>

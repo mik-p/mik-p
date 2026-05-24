@@ -1,0 +1,51 @@
+name: Update fun fact
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch: []
+
+jobs:
+  refresh-fun-fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch random useless fact
+        id: fetch_fact
+        run: |
+          set -e
+          fact=$(curl -s "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en")
+          echo "FACT=$(python -c 'import json, sys; print(json.load(sys.stdin)["text"])' <<< "$fact")" >> $GITHUB_OUTPUT
+
+      - name: Update README fun fact
+        run: |
+          python - <<'PY'
+import os
+from pathlib import Path
+import re
+
+readme = Path('README.md')
+text = readme.read_text(encoding='utf-8')
+fact = os.environ['FACT'].strip().replace('\n', ' ')
+pattern = re.compile(r'(<!--FACT_START-->\n> ).*?(\n<!--FACT_END-->)', re.S)
+if not pattern.search(text):
+    raise SystemExit('Could not find fun fact markers in README.md')
+text = pattern.sub(r'\1' + fact + r'\2', text, count=1)
+readme.write_text(text, encoding='utf-8')
+PY
+        env:
+          FACT: ${{ steps.fetch_fact.outputs.FACT }}
+
+      - name: Commit updated fun fact
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh fun fact"
+            git push
+          else
+            echo "No README change detected."
+          fi
