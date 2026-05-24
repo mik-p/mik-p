@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> This fun fact updates automatically from the uselessfacts API.
+> Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.
 <!--FACT_END-->
 </p>
 
