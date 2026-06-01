@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.
+> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
 <!--FACT_END-->
 </p>
 
