@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
+> The average human eats 8 spiders in their lifetime at night.
 <!--FACT_END-->
 </p>
 
