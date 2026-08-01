@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> The average human eats 8 spiders in their lifetime at night.
+> It's against the law to burp, or sneeze in a church in Nebraska, USA.
 <!--FACT_END-->
 </p>
 
