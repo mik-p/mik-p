@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> You're born with 300 bones, but by the time you become an adult, you only have 206.
+> You spend 7 years of your life in the bathroom.
 <!--FACT_END-->
 </p>
 
