@@ -67,7 +67,7 @@ I'm a Linux native and use ROS as the defacto tool for robotics projects. I have
 
 <p align="center">
 <!--FACT_START-->
-> You spend 7 years of your life in the bathroom.
+> The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.
 <!--FACT_END-->
 </p>
 
